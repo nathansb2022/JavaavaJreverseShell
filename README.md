@@ -13,11 +13,14 @@ Add your IP and Port to the source code.
 
 Within the directory where your .java file is located run:
 
-Compile the Jave file
+# Compile the Java file
+
 javac filename.java
 
-Create the jar executable here
+# Create the jar executable here
+
 jar cvfm filename.jar manifest.txt filename.class
 
-Run the jar file from command line or just double click from the UI.
+# Run the jar file from command line or just double click from the UI.
+
 java -jar filename.jar
