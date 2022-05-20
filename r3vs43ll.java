@@ -1,6 +1,6 @@
 /* Java r3vs43ll is made for Windows environment and it will work with the same version it is created with.
 
-Download Java JDK and make sure you pick the appropriate version that matches with the host on which you wish to run.
+Download Java JDK and make sure you pick the appropriate version that matches with the host's version on which you wish to run.
 
 Before a .jar is generated, you will need a manifest. Please see https://stackoverflow.com/questions/1238145/how-to-run-a-jar-file
 
@@ -8,7 +8,7 @@ Remember to add your IP and port below.
 
 Within the directory where your .java file is located run:
 
-Compile the Jave file
+Compile the Java file
 javac filename.java
 
 Create the jar executable here
