@@ -1,5 +1,4 @@
 # JavaavaJreverseShell
-
 Java r3vs43ll is made for Windows environment and it will work with the same version it is created with. Download Java JDK and make sure you pick the appropriate version that matches with the host's version on which you wish to run.
 https://www.oracle.com/java/technologies/downloads/
 
