@@ -13,13 +13,14 @@ Add your IP and Port to the source code.
 Within the directory where your .java file is located run:
 
 # Compile the Java file
-
+```Powershell
 javac filename.java
-
+```
 # Create the jar executable here
-
+```Powershell
 jar cvfm filename.jar manifest.txt filename.class
-
+```
 # Run the jar file from command line or just double click from the UI.
-
+```Powershell
 java -jar filename.jar
+```
